@@ -43,18 +43,18 @@ The program allows the user to:
    → Closes the program.
 
 ## 🖥️ Code Structure
-class Person
- └── name, age
- └── displayInfo()
+class Person    
+ └── name, age    
+ └── displayInfo()    
 
-class Student extends Person
- └── rollNo, marks
- └── calculateGrade(double)
- └── calculateGrade(int, int)
- └── displayInfo() [overridden]
+class Student extends Person    
+ └── rollNo, marks   
+ └── calculateGrade(double)    
+ └── calculateGrade(int, int)    
+ └── displayInfo() [overridden]    
 
-public class StudentManagement
- └── main() method with menu logic
+public class StudentManagement    
+ └── main() method with menu logic    
 
 ## ✅ Requirements
 Java JDK 8 or later
