@@ -62,6 +62,6 @@ Java JDK 8 or later
 Any Java IDE (like IntelliJ, Eclipse, or VS Code) or command line
 
 ## 📁 File
-StudentManagement.java — Contains all class definitions and the main driver logic.
+CODE — Contains all class definitions and the main driver logic.
 
 
